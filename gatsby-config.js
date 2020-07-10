@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     // edit below
-    title: `Wooclap landing page`,
+    title: `Wooclap blog`,
     author: `Wooclap`,
     description: `An test example of landing page & blog using a CMS.`,
     siteUrl: `https://test-gatsby-blog.netlify.com/`,
